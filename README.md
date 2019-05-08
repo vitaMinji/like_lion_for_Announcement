@@ -5,7 +5,7 @@
 ![ppt1](./image/1.JPG)
 ![ppt2](./image/2.JPG)
 ## MTV패턴이란 model-template-view를 의미하는데 여기서는 model에 대해서 알아보고 다음 발표자가 admin에대해 설명해보겟습니다.
-![ppt3](./image/3.JPG)
+
 ![ppt4](./image/4.JPG)
 ![ppt5](./image/5.JPG)
 ![ppt6](./image/6.JPG)
@@ -17,6 +17,9 @@
 ![additional](./image/additional.JPG)
 ## ※참고로 settings.py를확인해보면 django에서는 기본적으로 sqlite3를 db로 쓰지만  oracle을쓰고싶으면 django.db.backends.oracle로 바꾸시면 됩니다 그러나 sqlite이외인 즉 oracle을 사용한다면 sql문으로 database를 만들어놔야함.. 
 ![chamgo](./image/chamgo.JPG)
+
+## admin이란
+![ppt3](./image/3.JPG)
 ![ppt9](./image/9.JPG)
 
 ![ppt10](./image/10.JPG)
