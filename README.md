@@ -12,7 +12,8 @@
 ![ppt7](./image/7.JPG)
 
 ![ppt8](./image/8.JPG)
-## 클래스를 만들구 데이터 베이스에 manage.py makemigrations 명령어를 통해 알려주고 manage.py migrate를 통해 적용시킵니다. 
+## 클래스를 만들구 데이터 베이스에 manage.py makemigrations 명령어를 통해 알려주고 manage.py migrate를 통해 적용시킵니다. 아래 그림을 참고하면 좋습니다
+![additional](./image/additional.JPG)
 ![ppt9](./image/9.JPG)
 
 ![ppt10](./image/10.JPG)
