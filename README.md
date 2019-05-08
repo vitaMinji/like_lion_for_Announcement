@@ -17,8 +17,10 @@
 ![additional](./image/additional.JPG)
 ## ※참고로 settings.py를확인해보면 django에서는 기본적으로 sqlite3를 db로 쓰지만  oracle을쓰고싶으면 django.db.backends.oracle로 바꾸시면 됩니다 그러나 sqlite이외인 즉 oracle을 사용한다면 sql문으로 database를 만들어놔야함.. 
 ![chamgo](./image/chamgo.JPG)
-
+### -------------------------------------------------------------------------------------------------
 ## admin이란
+## Django의  큰 장점 중 하나는 admin 기능을 기본으로 제공한다는 점이다.
+
 ![ppt3](./image/3.JPG)
 ![ppt9](./image/9.JPG)
 
