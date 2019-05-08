@@ -14,6 +14,8 @@
 ![ppt8](./image/8.JPG)
 ## 클래스를 만들구 데이터 베이스에 manage.py makemigrations 명령어를 통해 알려주고 manage.py migrate를 통해 적용시킵니다. 아래 그림을 참고하면 좋습니다
 ![additional](./image/additional.JPG)
+## ※참고로 settings.py를확인해보면 django에서는 기본적으로 sqlite3를 db로 쓰지만  oracle을쓰고싶으면 django.db.backends.oracle로 바꾸시면 됩니다 그러나 sqlite이외인 즉 oracle을 사용한다면 sql문으로 database를 만들어놔야함.. 
+![chamgo](./image/chamgo.JPG)
 ![ppt9](./image/9.JPG)
 
 ![ppt10](./image/10.JPG)
@@ -31,9 +33,8 @@
 ### pub_date에 published date를담고
 ### body에는 max_length가없는 문자열을담습니다
 
-## ※아래 사진을 참고로 database는 django에서는 기본적을 sqlite3를 쓸수있지만 oracle을쓰고싶으면 django.db.backends.oracle로 바꿔야함 그러나 sqlite이외인 즉 oracle을 사용한다면 sql문으로 database를 만들어놔야함.. 
-![chamgo](./image/chamgo.JPG)
-##  //////////////////////////실습재개
+
+
 ![silsup4](./image/silsup4.JPG)
 ### 5. python manage.py makemigrations명령어를 통해 migrations를 만들고 python manage.py migrate를통해 DB에 MIGRATE합니다
  ![silsup5](./image/silsup5.JPG)
