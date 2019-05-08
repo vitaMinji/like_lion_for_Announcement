@@ -1,5 +1,6 @@
 ### like_lion_for_Announcement
-
+#### ppt made by dalsa 
+#### presenter : minji , junseong
 # 멋쟁이 사자처럼 ppt 및 실습(실습은 과정만)
 ![ppt1](./image/1.JPG)
 ![ppt2](./image/2.JPG)
