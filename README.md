@@ -36,7 +36,7 @@
 ##  //////////////////////////실습재개
 ![silsup4](./image/silsup4.JPG)
 ### 5. python manage.py makemigrations명령어를 통해 migrations를 만들고 python manage.py migrate를통해 DB에 MIGRATE합니다
- ![silsup5](./image/sipsup5.JPG)
+ ![silsup5](./image/sipsup5.jpg)
  ### 6.이렇게 잘되었음을 보여주고 뒤에서부터는 python manage.py createsuperuser 명령어를 통해 이어가면됩니다.
 
 
