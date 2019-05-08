@@ -22,6 +22,7 @@
 ## Django의  큰 장점 중 하나는 admin 기능을 기본으로 제공한다는 점이다.
 
 ![ppt3](./image/3.JPG)
+![admin](./image/admin.PNG)
 ![ppt9](./image/9.JPG)
 
 ![ppt10](./image/10.JPG)
