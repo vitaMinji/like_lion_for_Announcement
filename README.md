@@ -1,5 +1,6 @@
 # like_lion_for_Announcement
 멋쟁이 사자처럼 발표용 repository
+<<<<<<< HEAD
 ![ppt1](./image/1.jpg)
 ![ppt2](./image/2.jpg)
 ![ppt3](./image/3.jpg)
