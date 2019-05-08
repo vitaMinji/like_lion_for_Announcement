@@ -24,12 +24,14 @@
 ![ppt3](./image/3.JPG)
 ## admin 에 들어가려면 밑의 주소를 자신의 localhost 주소 뒤에 덧붙여 주면 된다. 
 ![admin](./image/admin.PNG)
-
+## 그렇다면 다음과 같은 로그인 창이 뜬다.
+![silsup5](./image/silsup5.JPG)
 ## 글을 추가하거나, 관리, 삭제하기 위한 관리자 계정을 만드는 방법은 아래 코드를 터미널에 입력해주면 된다.
+## 이 코드를 입력하면 추가적으로 이름과 이메일, 비밀번호를 설정하라고 요구한다.
 ![ppt9](./image/9.JPG)
 
 ![ppt10](./image/10.JPG)
-
+# (실제로 admin 들어간것 캡쳐해서 추가하기!!!!!!!!!!!!)
 # 실습 
 #### 1.django-admin startproject secondproject
 
