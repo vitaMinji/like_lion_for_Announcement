@@ -29,9 +29,9 @@
 ## 글을 추가하거나, 관리, 삭제하기 위한 관리자 계정을 만드는 방법은 아래 코드를 터미널에 입력해주면 된다.
 ## 이 코드를 입력하면 추가적으로 이름과 이메일, 비밀번호를 설정하라고 요구한다.
 ![ppt9](./image/9.JPG)
-
+### admin계정을 생성한 후 로그인을 하고 들어간 창은 다음과 같다.
+![admin](./image/adminlogin.PNG)
 ![ppt10](./image/10.JPG)
-# (실제로 admin 들어간것 캡쳐해서 추가하기!!!!!!!!!!!!)
 # 실습 
 #### 1.django-admin startproject secondproject
 
